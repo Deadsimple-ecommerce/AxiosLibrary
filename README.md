@@ -1,4 +1,4 @@
-[![Latest Stable Version](https://poser.pugx.org/deadsimple/axioslibrary/version)](https://packagist.org/packages/deadsimple/axioslibrary) [![Total Downloads](https://poser.pugx.org/deadsimple/axioslibrary/downloads)](https://packagist.org/packages/deadsimple/axioslibrary) [![License](https://poser.pugx.org/deadsimple/axioslibrary/license)](https://packagist.org/packages/deadsimple/axioslibrary)
+[![Latest Stable Version](https://poser.pugx.org/deadsimple/axioslibrary/v/stable)](https://packagist.org/packages/deadsimple/axioslibrary) [![Total Downloads](https://poser.pugx.org/deadsimple/axioslibrary/downloads)](https://packagist.org/packages/deadsimple/axioslibrary) [![License](https://poser.pugx.org/deadsimple/axioslibrary/license)](https://packagist.org/packages/deadsimple/axioslibrary)
 
 # Deadsimple Axios Magento2 Composer Library
 
