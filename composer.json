@@ -1,5 +1,5 @@
 {
-    "name": "deadsimple/axios",
+    "name": "deadsimple/axioslibrary",
     "description": "A deadsimple module to use Axios components in your Magento2 projects",
     "type": "magento2-module",
     "license": "MIT",
