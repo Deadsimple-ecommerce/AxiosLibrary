@@ -6,7 +6,7 @@ This package allows you to include the latest version of axios and use on a glob
 
 ## Installation
 
-Use composer to install the module: `composer require deadsimple/axioslibrary
+Use composer to install the module: `composer require deadsimple/axioslibrary`
 
 ## Usage
 Using this library is easy peasy, just include the axios script through requirejs, define Axios and use it wherever you like.
@@ -36,4 +36,4 @@ define([
 
 ### Version
 
-This library loads: `Axios v0.19.2
+This library loads: `Axios v0.19.2`
