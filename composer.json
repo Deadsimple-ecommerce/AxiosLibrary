@@ -1,33 +1,20 @@
 {
     "name": "deadsimple/axios",
-    "description": "",
-    "require": {
-        "php": "~5.5.0|~5.6.0|~7.0.0",
-
-        "magento/magento-composer-installer": "*"
-    },
-    "suggest": {
-
-    },
+    "description": "A deadsimple module to use Axios components in your Magento2 projects",
     "type": "magento2-module",
-    "version": "0.1.0",
-    "license": [
-
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maurits Meester",
+            "email": "maurits@e-mmer.nl"
+        }
     ],
     "autoload": {
         "files": [
             "registration.php"
-        ],
-        "psr-4": {
-            "Deadsimple\\Axios\\": ""
-        }
-    },
-    "extra": {
-        "map": [
-            [
-                "*",
-                "Deadsimple/Axios"
-            ]
         ]
+    },
+    "require": {
+        "magento/framework": "100.1.*|101.0.*|102.0.*"
     }
 }
