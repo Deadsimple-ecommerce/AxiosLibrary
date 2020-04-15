@@ -9,7 +9,7 @@ This package allows you to include the latest version of axios and use on a glob
 Use composer to install the module: `composer require deadsimple/axioslibrary
 
 ## Usage
-Create a main js file to load through requirejs in this main.js file define `Vue` (with a capital V) and use `vue` (see the non capital v) to load your created vue components in this example `Searchinput.vue`. From this point on you can initialize vue the way your used to with the `new Vue()` initializer, please make sure you have a container available to run your VueJS code in `#essearch` in this example;
+Using this library is easy peasy, just include the axios script through requirejs, define Axios and use it wherever you like.
 
 
 ```
